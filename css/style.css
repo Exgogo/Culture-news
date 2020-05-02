@@ -100,10 +100,6 @@ a:hover {
     box-sizing: border-box;
 }
 
-.hotel-block:hover {
-    filter: saturate(1.7);
-}
-
 .hotel-block a {
     margin: 5px 0 5px;
     vertical-align: top;
