@@ -69,9 +69,11 @@ h1.header-title {
     display: flex;
     justify-content: space-between;
     width: 1171px;
+    padding: 0;
     margin-left: auto;
     margin-right: auto; 
 
+    line-height: 19px;
     list-style: none;
     letter-spacing: 2px;
     text-transform: uppercase;
