@@ -92,7 +92,7 @@ a:hover {
 /* + Блок об Отеле */
 .hotel-block {
     height: 464px;
-    background: url("..files/Hotel-11.jpg") no-repeat;
+    background: url("..files/hotel.jpg") no-repeat;
 /*     background-size: 100%; */
     color: #ffffff;
     margin-top: 47px;
