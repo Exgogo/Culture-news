@@ -1,1 +1,1 @@
-# exgogo.github.io/culture-news/Culture-news
+# https://exgogo.github.io/culture-news/Culture-news
