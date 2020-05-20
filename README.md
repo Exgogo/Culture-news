@@ -1,1 +1,1 @@
-# Culture-news
+# exgogo.github.io/culture-news/Culture-news
